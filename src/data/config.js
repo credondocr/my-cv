@@ -106,8 +106,8 @@ export default {
     },
     {
       percent: '70',
-      title: 'Kotlin',
-      description: '<3'
+      title: 'Salesforce Development ',
+      description: 'TDX18 Trailblazer Attendee'
     }
   ],
   experiences: [
