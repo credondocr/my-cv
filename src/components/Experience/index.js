@@ -24,11 +24,11 @@ export default class extends Component {
                         <p className='name'>{experience.name}</p>
                         <p className='title'>{experience.title}</p>
                         <p className='highlights'>
-                          <h4>Highlights</h4>
+                          <h4 className={'titles-experience'}>Highlights</h4>
                           {experience.highlight.map((account, index) => {
                             return (
                               <p key={index}>
-                                <strong><a href={account.url}>{account.name}</a>:</strong>{account.shortDescription}
+                                <strong className={'titles-experience'}><a href={account.url} className={'titles-experience'}>{account.name}</a>: </strong>{account.shortDescription}
                               </p>
                             )
                           })}

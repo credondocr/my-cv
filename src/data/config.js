@@ -122,9 +122,14 @@ export default {
           shortDescription: 'Microservice integration using RabbidMQ and the latest Javascript techniques and technologies like Node, ES6+, ReactJs, etc. In addition to that I build implementations for different services like: Salesforce, Chargify, Shoppify and Invoice ninja.'
         },
         {
+          name: 'Salesforce Trailhead DX Conference 2018.',
+          url: 'https://www.salesforce.com/blog/2018/01/get-ready-for-trailheadx-18',
+          shortDescription: 'The Salesforce Developer Conference  in San Francisco, CA'
+        },
+        {
           name: 'Hotchalk Data Analytics',
           url: 'https://www.hotchalk.com/',
-          shortDescription: 'A Web-based data visualization and reporting application that provides Hotchalk and institutional staff with a better understanding of student and instructor performance.'
+          shortDescription: 'A Web-based data visualization and reporting application.'
         }
       ]
     },
