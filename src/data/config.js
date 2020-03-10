@@ -37,72 +37,62 @@ export default {
     {
       percent: '90',
       title: 'NodeJs',
-      description: '() => console.log(\'In Love\')'
     },
     {
       percent: '60',
       title: 'Java',
-      description: 'public void foo(){ awesomeMethod(); }'
     },
     {
-      percent: '80',
+      percent: '70',
       title: 'React',
-      description: 'No words :)'
     },
     {
       percent: '85',
       title: 'Responsive Design',
-      description: 'I love it <3'
     },
     {
       percent: '90',
       title: 'HTML 5',
-      description: '<love/>'
     },
     {
       percent: '85',
       title: 'CSS',
-      description: '.awesomeClass{ position:good; :D! }'
     },
     {
       percent: '95',
       title: 'Javascript',
-      description: 'function awesome() { return <3; }'
     },
     {
       percent: '75',
       title: 'PHP',
-      description: 'echo "I feel fine with php code";'
     },
     {
       percent: '85',
       title: 'SQL Databases',
-      description: 'select niceHabits from myself;  Clean code '
     },
     {
       percent: '90',
       title: 'NoSQL Databases',
-      description: '<3'
     },
     {
       percent: '80',
       title: 'Test Driven Development',
-      description: 'Red - Green - Refactor'
+    },
+    {
+      percent: '80',
+      title: 'Jest',
     },
     {
       percent: '75',
       title: 'Continuous Integration',
-      description: 'Jenkins, Ready to build!!!'
     },
     {
       percent: '90',
       title: 'Git',
-      description: 'git commit issue closed :D'
     },
     {
       percent: '80',
       title: 'Docker',
-      description: 'docker-compose'
     },
     {
       percent: '70',
@@ -112,24 +102,20 @@ export default {
   ],
   experiences: [
     {
-      date: 'October 2015  - Present.',
+      date: 'October 2015  - March 2019.',
       title: 'Senior Software Engineer',
       name: 'Edify',
       highlight: [
         {
+          name: 'Greatminds',
+          url: 'https://greatminds.org',
+          date: 'March 2019 - Present.',
+          shortDescription: 'Microservices conected to Learnosity to handle the Digital assessment process and reports'
+        },
+        {
           name: 'Lumerit Education',
           url: 'https://lumeriteducation.com',
           shortDescription: 'Microservice integration using RabbidMQ and the latest Javascript techniques and technologies like Node, ES6+, ReactJs, etc. In addition to that I build implementations for different services like: Salesforce, Chargify, Shoppify and Invoice ninja.'
-        },
-        {
-          name: 'Salesforce Trailhead DX Conference 2018.',
-          url: 'https://www.salesforce.com/blog/2018/01/get-ready-for-trailheadx-18',
-          shortDescription: 'The Salesforce Developer Conference  in San Francisco, CA'
-        },
-        {
-          name: 'Hotchalk Data Analytics',
-          url: 'https://www.hotchalk.com/',
-          shortDescription: 'A Web-based data visualization and reporting application.'
         }
       ]
     },
