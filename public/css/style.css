@@ -228,7 +228,9 @@ footer li { display: inline-block; margin: 0 4px; }
 footer li a { display: block; text-decoration: none; border-bottom: none; padding: 18px; -webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; -webkit-transition: all 0.3s ease-in, 1s; -moz-transition: all 0.3s ease-in, 1s; -o-transition: all 0.3s ease-in, 1s; -ms-transition: all 0.3s ease-in, 1s; transition: all 0.3s ease-in, 1s; }
 footer .facebook { background: url(../images/facebook.png) center no-repeat #444749; }
 footer .facebook:hover { background-color: #4265b9; }
-footer .twitter { background: url(../images/twitter.png) center no-repeat #444749; }
+footer .github { background: url(../images/github.png) center no-repeat #444749; background-size: 100%; }
+footer .github:hover { background-color: #4265b9; }
+footer .twitter { background: url(../images/twitter.png) center no-repeat #444749;  }
 footer .twitter:hover { background-color: #9ae4e8; }
 footer .google { background: url(../images/google.png) center no-repeat #444749; }
 footer .google:hover { background-color: #d62408; }

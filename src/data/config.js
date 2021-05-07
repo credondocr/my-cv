@@ -18,7 +18,7 @@ export default {
   },
   jobPosition: 'Senior Software Engineer',
   description: 'I enjoy working with technology, I really feel comfortable coding or just learning new libraries or programming tools. I like to search the better way to solve problems without forgetting performance and good development practices. I believe that you can achieve whatever you want through technology!',
-  slogan: 'Bytes and Sillicon rock my live!',
+  slogan: 'Bytes and Sillicon rock my life!',
   hobbies: [
     {
       title: 'Tech-Lover',
