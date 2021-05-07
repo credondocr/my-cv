@@ -17,8 +17,8 @@ export default {
     job: 'Developer'
   },
   jobPosition: 'Senior Software Engineer',
-  description: 'I enjoy working with technology, I really feel comfortable coding or just learning new libraries or programming tools. I like to search the better way to solve problems without forget the performance and good development practices. I believe that you can achieve whatever you want through technology! Bytes and Silicon rocks my life!',
-  slogan: 'Bytes and Sillicon rocks my live!',
+  description: 'I enjoy working with technology, I really feel comfortable coding or just learning new libraries or programming tools. I like to search the better way to solve problems without forgetting performance and good development practices. I believe that you can achieve whatever you want through technology!',
+  slogan: 'Bytes and Sillicon rock my live!',
   hobbies: [
     {
       title: 'Tech-Lover',
@@ -35,15 +35,23 @@ export default {
   ],
   skills: [
     {
-      percent: '90',
+      percent: '95',
       title: 'NodeJs',
+    },
+    {
+      percent: '50',
+      title: 'Go',
+    },
+    {
+      percent: '60',
+      title: 'Python',
     },
     {
       percent: '60',
       title: 'Java',
     },
     {
-      percent: '70',
+      percent: '85',
       title: 'React',
     },
     {
@@ -174,6 +182,10 @@ export default {
     emails: ['credondocr@gmail.com']
   },
   socialMedia: [
+    {
+      name: 'github',
+      url: 'http://github.com/credondocr'
+    },
     {
       name: 'twitter',
       url: 'http://www.twitter.com/credondocr'
